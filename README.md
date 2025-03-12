@@ -34,3 +34,17 @@ I evaluated my deisgn choice with several non-technical family members to see if
 5. **Synthesis of Findings**
 
 Overall, my approach was effective—I efficiently completed my core objective. However, I recognize that this dataset offers virtually limitless insights. In the future, I plan to conduct a more comprehensive analysis to uncover additional trends and conclusions. For now, I focused on a targeted analysis due to time constraints.
+
+**Images from analysis:**
+
+![Altair Correlation Between Sales and Profit](https://github.com/peige07/DataVisualizationFinal/raw/main/VisualizationImages/Altair%20Sales%20%26%20Profit.png)
+<Br>
+![Category Sales and Profit](https://github.com/peige07/DataVisualizationFinal/blob/main/VisualizationImages/Category%20Sales%20%26%20Profit.png)
+<Br>
+![Sub-Category Sales and Profit](https://github.com/peige07/DataVisualizationFinal/blob/main/VisualizationImages/Subcategories%20Profit%20and%20Sales.png)
+<Br>
+![State Sales & Profit](https://github.com/peige07/DataVisualizationFinal/blob/main/VisualizationImages/States%20Profit%20and%20Sales.png)
+<Br>
+![Map Sales & Profit](https://github.com/peige07/DataVisualizationFinal/blob/main/VisualizationImages/Map%20Profit%20and%20Sales.png)
+
+
